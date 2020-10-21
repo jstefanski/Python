@@ -11,6 +11,9 @@
 <h2>Sumário</h2>
 
 <!-- toc -->
+  * Estudos
+  * Análises
+  * Projetos
   * Exercícios
       * [Exercício 001: Olá, Mundo!](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20001.py)
       * [Exercício 002: Respondendo ao Usuário](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20002.py)
@@ -106,7 +109,4 @@
       * [Exercício 092: Cadastro de Trabalhador em Python](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20092.py)
       * [Exercício 093: Cadastro de Jogador de Futebol](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20093.py)
       * [Exercício 094: Unindo Dicionários e Listas](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20094.py)
-      * [Exercício 095: Aprimorando os Dicionários](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20095.py)      
-  * Análises
-  * Projetos
-  * Estudos
+      * [Exercício 095: Aprimorando os Dicionários](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20095.py)
