@@ -14,7 +14,7 @@
   * Estudos
   * Análises
   * Projetos
-  * Exercícios
+  * Exercícios (Curso de Python 3 - Canal Curso em Vídeo)
       * [Exercício 001: Olá, Mundo!](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20001.py)
       * [Exercício 002: Respondendo ao Usuário](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20002.py)
       * [Exercício 003: Somando Dois Números](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20003.py)
