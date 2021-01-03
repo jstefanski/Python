@@ -12,6 +12,9 @@
 
 <!-- toc -->
   * Estudos
+      * [Detalhes CPU](https://github.com/jstefanski/Python/blob/main/Estudos/cpu_info.py)
+      * [Detalhes RAM](https://github.com/jstefanski/Python/blob/main/Estudos/ram_details.py)
+      * [Editor de Texto (Simples)](https://github.com/jstefanski/Python/blob/main/Estudos/simple_text_editor.py)      
   * Análises
   * Projetos
   * Exercícios (Curso de Python 3 - Canal Curso em Vídeo)
