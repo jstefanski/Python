@@ -11,12 +11,12 @@
 <h2>Sumário</h2>
 
 <!-- toc -->
-  * Estudos
-      * [Detalhes CPU](https://github.com/jstefanski/Python/blob/main/Estudos/cpu_info.py)
-      * [Detalhes RAM](https://github.com/jstefanski/Python/blob/main/Estudos/ram_details.py)
-      * [Editor de Texto (Simples)](https://github.com/jstefanski/Python/blob/main/Estudos/simple_text_editor.py)      
+  * Códigos   
   * Análises
   * Projetos
+      * [Detalhes CPU](https://github.com/jstefanski/Python/blob/main/Estudos/cpu_info.py)
+      * [Detalhes RAM](https://github.com/jstefanski/Python/blob/main/Estudos/ram_details.py)
+      * [Editor de Texto (Simples)](https://github.com/jstefanski/Python/blob/main/Estudos/simple_text_editor.py)   
   * Exercícios (Curso de Python 3 - Canal Curso em Vídeo)
       * [Exercício 001: Olá, Mundo!](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20001.py)
       * [Exercício 002: Respondendo ao Usuário](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20002.py)
