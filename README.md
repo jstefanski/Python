@@ -11,7 +11,6 @@
 <h2>Sumário</h2>
 
 <!-- toc -->
-  * Outros
   * Códigos
   * Projetos
       * [Detalhes CPU](https://github.com/jstefanski/Python/blob/main/Estudos/cpu_info.py)
