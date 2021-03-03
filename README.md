@@ -5,14 +5,14 @@
 
 <h1> Python </h1>
 
-*Este repositório foi criado para armazenar exercícios, análises, estudos e projetos utilizando Python.*
+*Este repositório foi criado para armazenar códigos, projetos, exercícios e muito mais utilizando Python.*
 
 --------------------------------------------------
 <h2>Sumário</h2>
 
 <!-- toc -->
-  * Códigos   
-  * Análises
+  * Outros
+  * Códigos
   * Projetos
       * [Detalhes CPU](https://github.com/jstefanski/Python/blob/main/Estudos/cpu_info.py)
       * [Detalhes RAM](https://github.com/jstefanski/Python/blob/main/Estudos/ram_details.py)
