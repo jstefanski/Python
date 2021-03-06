@@ -102,3 +102,5 @@
       * [Exercício 093: Cadastro de Jogador de Futebol](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20093.py)
       * [Exercício 094: Unindo Dicionários e Listas](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20094.py)
       * [Exercício 095: Aprimorando os Dicionários](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20095.py) 
+
+  * Exercícios Resolvidos - [YouTube](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
