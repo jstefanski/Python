@@ -77,7 +77,7 @@
       * [Exercício 070: Estatísticas em Produtos](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20070.py)
       * [Exercício 071: Simulador de Caixa Eletrônico](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20071.py)
   * Curso de Python 3 - Mundo 3: Estruturas Compostas
-        * [Exercício 073: Tuplas com Times de Futebol](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20073.py)
+      * [Exercício 073: Tuplas com Times de Futebol](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20073.py)
       * [Exercício 074: Maior e Menor Valores em Tupla](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20074.py)
       * [Exercício 075: Análise de Dados em uma Tupla](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20075.py)
       * [Exercício 076: Lista de Preços com Tupla](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20076.py)
