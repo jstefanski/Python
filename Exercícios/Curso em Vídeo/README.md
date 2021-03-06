@@ -3,7 +3,7 @@
 <h2> Exercícios </h2>
 
 <!-- toc -->
-  * Curso de Python 3 - Mundo 1: Fundamentos - [YouTube](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+  * Curso de Python 3 - Mundo 1: Fundamentos - [YouTube](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
       * [Exercício 001: Olá, Mundo!](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20001.py)
       * [Exercício 002: Respondendo ao Usuário](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20002.py)
       * [Exercício 003: Somando Dois Números](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20003.py)
