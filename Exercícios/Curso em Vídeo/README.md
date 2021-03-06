@@ -3,7 +3,7 @@
 <h2> Exercícios </h2>
 
 <!-- toc -->
-  * Curso de Python 3 - Mundo 1: Fundamentos
+  * Curso de Python 3 - Mundo 1: Fundamentos - [YouTube](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
       * [Exercício 001: Olá, Mundo!](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20001.py)
       * [Exercício 002: Respondendo ao Usuário](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20002.py)
       * [Exercício 003: Somando Dois Números](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20003.py)
@@ -39,7 +39,7 @@
       * [Exercício 033: Maior e Menor Valores](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001//Exerc%C3%ADcio%20033.py)
       * [Exercício 034: Aumentos Múltiplos](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20034.py)
       * [Exercício 035: Analisando Triângulo v1.0](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2001/Exerc%C3%ADcio%20035.py)
-  * Curso de Python 3 - Mundo 2: Estruturas de Controle
+  * Curso de Python 3 - Mundo 2: Estruturas de Controle - [YouTube](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
       * [Exercício 036: Aprovando Empréstimo](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20036.py)
       * [Exercício 037: Conversor de Bases Numéricas](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20037.py)
       * [Exercício 038: Comparando Números](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20038.py)
@@ -76,7 +76,7 @@
       * [Exercício 069: Análise de Dados do Grupo](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20069.py)
       * [Exercício 070: Estatísticas em Produtos](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20070.py)
       * [Exercício 071: Simulador de Caixa Eletrônico](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2002/Exerc%C3%ADcio%20071.py)
-  * Curso de Python 3 - Mundo 3: Estruturas Compostas
+  * Curso de Python 3 - Mundo 3: Estruturas Compostas - [YouTube](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
       * [Exercício 073: Tuplas com Times de Futebol](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20073.py)
       * [Exercício 074: Maior e Menor Valores em Tupla](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20074.py)
       * [Exercício 075: Análise de Dados em uma Tupla](https://github.com/jstefanski/Python/blob/main/Exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo/Mundo%2003/Exerc%C3%ADcio%20075.py)
